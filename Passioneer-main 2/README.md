@@ -36,9 +36,6 @@ A few hours into development, we learned that research on CV and ML models such 
 ## 👷‍♂️ What's next for Passioneer
 We plan on adding several more hobbies for users to try out and tuning our models to support object detection in more challenging backgrounds to improve the overall function of our project. We would also try to proceed with development in making Passioneer fully accessible to people with disablities.
 
-## Experience Passioneer
-[Devpost](https://devpost.com/software/passioneer?ref_content=user-portfolio&ref_feature=in_progress)  
-[Website](https://pradyumnach.github.io/Passioneers/)
 
 ## Installation
 1. Install the requirements by ```conda env create -f environment.yaml```
